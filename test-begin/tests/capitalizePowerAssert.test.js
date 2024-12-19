@@ -1,4 +1,4 @@
-import capitalize from "../src/capitalize.js";
+import capitalize from "../../src/capitalize.js";
 
 import assert from 'power-assert';
 
